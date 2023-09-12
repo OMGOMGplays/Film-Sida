@@ -38,7 +38,7 @@
     width:100%;
 }
 
-/* Usch, fult och ofint att ha t.ex. text- osv., 
+/* Usch, fult och ofint att ha t.ex. text-box2 osv., 
    men såvitt jag vet är detta den ända vägen att göra detta. */
 .text-box2 {
     position: absolute;
